@@ -8,7 +8,7 @@ metadata:
     fieldsV1:
       f:status:
         f:phase: {}
-    manager: kubectl-create
+    manager: kubectl-createfor reaallllllllllllllll
     operation: Update
     time: "2021-04-13T15:20:50Z"
   name: dev
