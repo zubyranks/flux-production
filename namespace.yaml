@@ -13,7 +13,7 @@ metadata:
     time: "2021-04-13T15:20:50Z"
   name: dev
   resourceVersion: "7919"
-  selfLink: /api/v1/namespaces/dev
+  selfLink: /api/v1/namespaces/dev1
   uid: 5b0875dc-5256-4985-be48-0b9963e4a780
 spec:
   finalizers:
