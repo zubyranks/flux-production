@@ -1,0 +1,22 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  creationTimestamp: "2021-04-13T15:20:50Z"
+  managedFields:
+  - apiVersion: v1
+    fieldsType: FieldsV1
+    fieldsV1:
+      f:status:
+        f:phase: {}
+    manager: kubectl-create
+    operation: Update
+    time: "2021-04-13T15:20:50Z"
+  name: dev
+  resourceVersion: "7919"
+  selfLink: /api/v1/namespaces/dev
+  uid: 5b0875dc-5256-4985-be48-0b9963e4a780
+spec:
+  finalizers:
+  - kubernetes
+status:
+  phase: Active
